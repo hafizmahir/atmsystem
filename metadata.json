@@ -1,0 +1,6 @@
+{
+  "name": "ATM Management System",
+  "description": "An interactive simulated Desktop ATM Management System demonstrating secure authentication, account verification, transactions (deposits, withdrawals), file handling simulations, support request tickets, and system admin logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
